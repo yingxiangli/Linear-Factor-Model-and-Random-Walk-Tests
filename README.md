@@ -16,3 +16,6 @@ TEST OF RANDOM WALK
 1) Box and Pierce (1970) test
 2) Ljung and Box (1978) test
 3) variance ratio test
+
+
+The ap_rw_tests.ipynb runs those tests.
