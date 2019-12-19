@@ -1,5 +1,6 @@
 # Linear Factor Model and Random Walk Tests
- Linear Factor Model and Random Walk Tests
+Yingxiang Li
+yingxiang.li@sauder.ubc..ca
 
 This repository includes the julia code to run the following tests:
 
